@@ -45,8 +45,7 @@ Tạo  rule trên WAN, sau đó chọn save để lưu
 <img src= "http://i.imgur.com/fVjIN9X.png">
 
 <img src= "http://i.imgur.com/sQ7iqwV.png"> 
-<img src= ""> 
-<img src= ""> 
+
 - Chọn tab Client export trong OPENVPN để export file :
 Chọn file phù hợp để cài đặt vào máy client. Ở đây, chọn Windows Installer : x86-win6 Sau đó copy sang máy client file vừa tải về từ Pfsense server
 <img src= "http://i.imgur.com/F95wSP5.png">
