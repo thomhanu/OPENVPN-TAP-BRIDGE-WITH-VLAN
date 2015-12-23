@@ -44,7 +44,9 @@ Bật card mạng OPT1 và đổi tên. Chọn Network port cho OPT1 là Openvpn
 Tạo  rule trên WAN, sau đó chọn save để lưu
 <img src= "http://i.imgur.com/fVjIN9X.png">
 
-<img src= "http://i.imgur.com/sQ7iqwV.png"> 
+<img src= "http://i.imgur.com/sQ7iqwV.png">
+Tạo rule trên card bridge
+<img src="http://i.imgur.com/6Mr8uOI.png">
 
 - Chọn tab Client export trong OPENVPN để export file :
 Chọn file phù hợp để cài đặt vào máy client. Ở đây, chọn Windows Installer : x86-win6 Sau đó copy sang máy client file vừa tải về từ Pfsense server
