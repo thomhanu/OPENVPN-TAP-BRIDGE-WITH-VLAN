@@ -45,14 +45,20 @@ Tạo  rule trên WAN, sau đó chọn save để lưu
 <img src= "http://i.imgur.com/fVjIN9X.png">
 
 <img src= "http://i.imgur.com/sQ7iqwV.png">
+
+
 Tạo rule trên card bridge
+
+
 <img src="http://i.imgur.com/6Mr8uOI.png">
 
 - Chọn tab Client export trong OPENVPN để export file :
 Chọn file phù hợp để cài đặt vào máy client. Ở đây, chọn Windows Installer : x86-win6 Sau đó copy sang máy client file vừa tải về từ Pfsense server
 <img src= "http://i.imgur.com/F95wSP5.png">
+
 Copy file down về vào máy client và cài đặt
 <img src= "http://i.imgur.com/E0l7DSO.png">
+
 **Chú ý**: Khi máy của bạn chưa cài đặt TAP-WINDOW, trong quá trình cài đặt OpenVPN yêu cầu cài đặt TAP-WINDOW hãy chọn Install
 
 Click chuột phải vào OpenVPN GUI -> Run as administrator
